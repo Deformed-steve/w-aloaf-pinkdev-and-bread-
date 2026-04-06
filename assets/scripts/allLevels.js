@@ -13,7 +13,7 @@ window.allLevels = [
     ],
     [
         "polargeist",
-	    "Poltergeist",
+	    "Polargeist",
 	    "level_3",
 	    "Step" 
     ],
@@ -124,13 +124,13 @@ window.allLevels = [
 	    "Fingerdash",
 	    "level_21",
 	    "MDK"
-    ],/*
+    ],
     [
         "dash",
 	    "Dash",
 	    "level_22",
 	    "MDK"
-    ],*/
+    ],
     [
         "every_end",
 	    "Every End",
